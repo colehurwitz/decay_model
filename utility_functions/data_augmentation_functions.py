@@ -1,6 +1,4 @@
 import numpy as np
-import neo
-import quantities as pq
 
 import matplotlib.pyplot as plt
 import matplotlib as mpl
@@ -10,9 +8,7 @@ import itertools
 import pickle
 import h5py
 from collections import namedtuple
-from scipy.optimize import curve_fit
 from collections import defaultdict
-import ast
 import spikeextractors as se
 
 
