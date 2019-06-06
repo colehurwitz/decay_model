@@ -1,0 +1,1 @@
+Folder for storing model data generated in the the 0_data_prep_VAE_MEArec.ipynb notebook
