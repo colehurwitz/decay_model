@@ -1,4 +1,4 @@
-# vae_spike_localization
+# Decay Model
 
 This repository contains three notebooks for running the model contained in the manuscript: [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://www.biorxiv.org/content/10.1101/656389v1).
 
