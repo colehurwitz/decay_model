@@ -1,6 +1,6 @@
 # Decay Model
 
-This repository contains three notebooks for running the model contained in the manuscript: [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://www.biorxiv.org/content/10.1101/656389v1).
+This repository contains three notebooks for running the model contained in the NeurIPS 2019 manuscript: [Scalable Spike Source Localization in Extracellular Recordings using Amortized Variational Inference](https://www.biorxiv.org/content/10.1101/656389v1).
 
 To run this code, you will need to install: numpy, quantities, matplotlib, spikeextractors, spiketoolkit, MEArec, torch (1.0.1.post2), torchvision, h5py, fastprogress, argparse, sklearn, warnings, pandas. All the code is for python 3.
 
